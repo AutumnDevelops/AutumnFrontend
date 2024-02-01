@@ -1,0 +1,40 @@
+{
+    "projects" : [
+        {
+            "id" : 1,
+            "name" : "Pocket Translation",
+            "desc" :"The website features a glassmorphic design with vibrant green and blue hues. JavaScript fetches a JSON file of languages and country codes to populate a dropdown. Users translate text by selecting languages and clicking 'translate.' Additional features include language swap, copy to clipboard, and text-to-speech functionality using the Web Speech API.",
+            "video" : "translator.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Image Editor",
+            "desc" :"The app lets users modify images by uploading their own or using defaults. Upload triggers a function to change the image source. Range sliders adjust CSS properties like blur or hue. Filters are applied through button clicks changing slider values. After adjustments, users can download the edited image from a canvas element.",
+            "video" : "image_editor.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "Quiz App",
+            "desc" :"The jQuery fetches 50 easy, randomized questions from an API, displaying them with four answers by modifying HTML5 elements. Users have 10 seconds to answer each question. Scores are saved locally and shown at the end. Users can submit scores with names, displayed on a max of five scores. Site features a blue and gold aesthetic reminiscent of quiz shows like Jeopardy and Wheel of Fortune.",
+            "video" : "quiz.jpg"
+        },
+        {
+            "id" : 4,
+            "name" : "Typing Game",
+            "desc" :"This is a typing game that uses jQuery and HTML5. The game selects HTML5 DOM elements, including the text area and countdown timer. It generates a random quote by making an AJAX request to an API called quotable.io, which is a database of quotes. The quote is displayed by creating span elements for each character, allowing the app to style each character with CSS to indicate whether the user typed it correctly.",
+            "video" : "typing_game.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "Password Generator",
+            "desc" :"HTML5 elements like a range slider and checkboxes determine password length and character set. Clicking 'generate password' triggers a function to loop through checkboxes and generate a random password based on slider value. The result appears in an input field.",
+            "video" : "password_generator.jpg"
+        },
+        {
+            "id" : 6,
+            "name" : "Voice Recorder",
+            "desc" :"This is a simple voice recorder that uses JavaScript and HTML5. It uses a Web Audio API to access the device's microphone when the user clicks a 'Record' button. Once they finish and click on the 'done' button, the voice recorder uses the MediaRecorder API to store the recorded audio data into a buffer, which is saved as a blob object with the specified MIME type.",
+            "video" : "recorder.jpg"
+        }
+    ]
+}
