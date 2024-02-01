@@ -1,6 +1,6 @@
 {
-  "homepage": "https://autumndevelops.github.io/AutumnFrontend/",
-  "name": "client",
+  "homepage": "http://autumnfrontend.io/",
+  "name": "autumnfrontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
