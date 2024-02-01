@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecd205c3.css",
+    "main.js": "/static/js/main.dd69ec37.js",
+    "static/media/typing_game.jpg": "/static/media/typing_game.97ab4cf60a0d46bc99b8.jpg",
+    "static/media/recorder.jpg": "/static/media/recorder.c68eb6fceff16124e174.jpg",
+    "static/media/quiz.jpg": "/static/media/quiz.bd645ee1e8e5af9db3e1.jpg",
+    "static/media/password_generator.jpg": "/static/media/password_generator.6f82729d2668aa718761.jpg",
+    "static/media/image_editor.jpg": "/static/media/image_editor.8b7b0266e4c0505bf639.jpg",
+    "static/media/translator.jpg": "/static/media/translator.dafc31f9dc8e199735a6.jpg",
+    "index.html": "/index.html",
+    "main.ecd205c3.css.map": "/static/css/main.ecd205c3.css.map",
+    "main.dd69ec37.js.map": "/static/js/main.dd69ec37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd205c3.css",
+    "static/js/main.dd69ec37.js"
+  ]
+}
