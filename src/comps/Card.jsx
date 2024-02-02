@@ -16,11 +16,12 @@ const Card = () => {
           <h2 className="flex items-center justify-center font-bold text-xl mb-2">Use Case</h2>
           <p className="text-sm mt-2">{project.desc}</p>
         </div>
-        <button className="p-2 absolute bottom-2 rounded-lg flex items-center justify-center text-black w-full" style={{ background: "linear-gradient(to left, pink, hotpink)" }}>
-          View Project
+        <button className="p-2 absolute bottom-2 rounded-lg flex items-center justify-center text-black w-full hover:bg-[#FF6FB5] duration-1000" style={{ background: "linear-gradient(to left, pink, hotpink)" }}>
+          <a href = {project.link}>
+            View Project
+          </a>
         </button>
       </div>
-
       </div>
   </section>
       ))}
