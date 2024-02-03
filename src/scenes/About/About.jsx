@@ -19,10 +19,10 @@ const About = () => {
             <h2 className="m-2 text-2xl font-bold" style={{ background: "-webkit-linear-gradient(hotpink, pink)", WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>About Me</h2>
             <div className="text-white text-lg w-[90%] m-2">
               <p className = "font-bold m-2">Who am I?</p>
-              <p className = "m-2">My name is Autumn Rayne. I am a Frontend web developer who has accumulated over two years of experience. From freelancing to personal projects, I enjoy building web applications, both small and large, and am enthusiastic about responsive design.</p>
+              <p className = "m-2">My name is Autumn Rayne. With a Bachelor's in Digital Media & Web Technology, I am a Frontend web developer who has accumulated over two years of experience. From freelancing to personal projects, I enjoy building web applications, both small and large, and am enthusiastic about responsive design.</p>
               <p className = "m-2">My tools of choice are ReactJS, NodeJS, SCSS and TailwindCSS. Currently, I am searching for a full-time position, which will allow me to expand my skillset and contribute to a team setting. </p>
               <p className = "m-2 mt-5">
-              Shoot me an email at <span style={{ background: "-webkit-linear-gradient(hotpink, pink)", WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>autumnraynedev@zohomail.com</span>, as I am always available. 
+              Shoot me an email at <span style={{ background: "-webkit-linear-gradient(hotpink, pink)", WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>AutumnFrontendDev@outlook.com</span>, as I am always available. 
               </p>
             </div>
     </div>

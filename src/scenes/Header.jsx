@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Resume from "./Resume_2024.pdf"
 const Header = () => {
 
   return (
@@ -12,7 +12,7 @@ const Header = () => {
       </div>
           <h2 className = "bg-black p-2 my-3 rounded-lg text-white text-1xl sm:text-2xl">Frontend Web Developer</h2>
           <div className = "flex w-full sm:w-1/5 justify-center my-3">
-            <a className = "bg-black p-2 mx-2 rounded-lg text-white text-md sm:text-xl hover:bg-[#FF6FB5]" href = "./RESUME_2024.pdf" download target = "_blank">Resume</a>
+            <a className = "bg-black p-2 mx-2 rounded-lg text-white text-md sm:text-xl hover:bg-[#FF6FB5]" href = {Resume} download target = "_blank">Resume</a>
             <button className = "bg-black p-2 mx-2 rounded-lg text-white text-md sm:text-xl hover:bg-[#FF6FB5]">
             <a href="#projects_r">Projects</a>
             </button>
