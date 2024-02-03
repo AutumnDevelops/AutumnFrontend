@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.9e53a3b2.css",
-    "main.js": "/static/js/main.ca9b5cd0.js",
+    "main.js": "/static/js/main.49160067.js",
     "static/media/typing_game.jpg": "/static/media/typing_game.97ab4cf60a0d46bc99b8.jpg",
     "static/media/recorder.jpg": "/static/media/recorder.c68eb6fceff16124e174.jpg",
-    "static/media/Resume_2024.pdf": "/static/media/Resume_2024.b12edae9ce2dd9ea4115.pdf",
+    "static/media/Resume_2024.pdf": "/static/media/Resume_2024.2a24308184bbc690f19f.pdf",
     "static/media/quiz.jpg": "/static/media/quiz.bd645ee1e8e5af9db3e1.jpg",
     "static/media/password_generator.jpg": "/static/media/password_generator.6f82729d2668aa718761.jpg",
     "static/media/image_editor.jpg": "/static/media/image_editor.8b7b0266e4c0505bf639.jpg",
     "static/media/translator.jpg": "/static/media/translator.dafc31f9dc8e199735a6.jpg",
     "index.html": "/index.html",
     "main.9e53a3b2.css.map": "/static/css/main.9e53a3b2.css.map",
-    "main.ca9b5cd0.js.map": "/static/js/main.ca9b5cd0.js.map"
+    "main.49160067.js.map": "/static/js/main.49160067.js.map"
   },
   "entrypoints": [
     "static/css/main.9e53a3b2.css",
-    "static/js/main.ca9b5cd0.js"
+    "static/js/main.49160067.js"
   ]
 }
