@@ -6,7 +6,7 @@ const Email_Form = () => {
   const [message, setMessage] = useState(null);
   const sendEmail = (e) => {
       e.preventDefault();
-      emailjs.sendForm(process.env.REACT_APP_EMAILJS_SERVICE_ID,process.env.REACT_APP_EMAILJS_TEMPLATE_ID,form.current,process.env.REACT_APP_EMAILJS_USER_ID).then(
+      emailjs.sendForm("service_hdu0dlg" , "template_7q33haa", form.current, "fOSgHP1K-_QbGULLg").then(
           (result) => {
             setMessage("Message Sent");
             form.current.reset();
