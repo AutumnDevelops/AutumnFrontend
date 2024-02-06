@@ -1,6 +1,7 @@
 import Nav from "./comps/Nav";
 import Header from "./scenes/Header"
 import Projects_recent from "./scenes/Projects_recent"
+import Projects_old from "./scenes/Projects_old"
 import About from "./scenes/About/About"
 import Email_Form from "./scenes/Email"
 import Footer from "./scenes/Footer"
@@ -13,6 +14,7 @@ function App() {
            <Header />
            <About />
            <Projects_recent />
+           <Projects_old />
            <Email_Form />
            <Footer />
       </main>

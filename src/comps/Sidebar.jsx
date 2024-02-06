@@ -5,6 +5,8 @@ const Sidebar = () => {
   const toggleVisibility = () => {setIsVisible(!isVisible)};
   const [isVisible24, setIsVisible24] = useState(false);
   const toggleVisibility24 = () => {setIsVisible24(!isVisible24)};
+  const [isVisible23, setIsVisible23] = useState(false);
+  const toggleVisibility23 = () => {setIsVisible23(!isVisible23)};
 
 
 
@@ -16,18 +18,23 @@ const Sidebar = () => {
             <span className = "flex items-center my-3 duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"  onClick={toggleVisibility}>Projects  <i className = {`px-2 ${(!isVisible ? "" : "rotate-180")} duration-1000`}><IoIosArrowDown /></i></span>
             {isVisible && (
             <>
-            <h4 className = "flex justify-between items-center text-lg indent-12 my-1 duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer" onClick={toggleVisibility24}>Best of 2023 <i className = {`px-2 ${(!isVisible24 ? "" : "rotate-180")} duration-1000`}><IoIosArrowDown /></i></h4>
+            <h4 className = "flex justify-between items-center text-lg indent-12 my-1 duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer" onClick={toggleVisibility24}>Site Examples <i className = {`px-2 ${(!isVisible24 ? "" : "rotate-180")} duration-1000`}><IoIosArrowDown /></i></h4>
             {isVisible24 && (
               <ul  className = "indent-20 text-base my-1 duration-1000">
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">The Balloon Gallery</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">The Unique Bean</a></li>
+              </ul>
+            )}
+            <h4 className = "flex justify-between items-center text-lg indent-12 my-1 duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer" onClick={toggleVisibility23}>JS App Examples <i className = {`px-2 ${(!isVisible23 ? "" : "rotate-180")} duration-1000`}><IoIosArrowDown /></i></h4>
+            {isVisible23 && (
+              <ul  className = "indent-20 text-base my-1 duration-1000">
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Pocket Translator</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Image Editor</a></li>
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Quiz App</a></li>
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Typing Game</a></li>
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Password Generator</a></li>
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Voice Recorder</a></li>
               </ul>
             )}
-
               </>
             )}
         </li>
