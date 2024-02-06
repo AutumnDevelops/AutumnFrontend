@@ -40,7 +40,7 @@
             "name" : "The Unique Bean",
             "desc" :"Developed a rudamentary UI for a coffee shop. It utilizes React and Redux. I used React to its full extent create an efficient and responsive UI, used Redux for stable state management - particularly as a form of local storage. I also Implemented features like product filter and, cart management.",
             "video" : "p1.png",
-            "link": "https://autumndevelops.github.io/Coffeehouse/home",
+            "link": "https://autumndevelops.github.io/Coffeehouse",
             "class" : "site"
         },
         {
@@ -48,7 +48,7 @@
             "name" : "The Balloon Gallery",
             "desc" :"Using React and CSS, I developed a UI for a local party planning and coordinating service. Leveraging React’s features, I created a seamless user experience and with meticulous attention to detail in CSS, I crafted a visually appeal user interface that adapts flawlessly across devices and browsers, enhancing user engagement.",
             "video" : "p2.png",
-            "link": "https://autumndevelops.github.io/PartySite/home",
+            "link": "https://autumndevelops.github.io/PartySite/",
             "class" : "site"
         }
     ]
