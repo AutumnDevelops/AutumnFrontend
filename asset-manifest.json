@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.21865d83.css",
-    "main.js": "/static/js/main.db1d641f.js",
+    "main.js": "/static/js/main.8851f8a4.js",
     "static/media/p1.png": "/static/media/p1.e87af79d7cec008c0187.png",
     "static/media/typing_game.jpg": "/static/media/typing_game.97ab4cf60a0d46bc99b8.jpg",
     "static/media/recorder.jpg": "/static/media/recorder.c68eb6fceff16124e174.jpg",
-    "static/media/Resume_2024.pdf": "/static/media/Resume_2024.145efe4d346cd08db4a0.pdf",
+    "static/media/Resume_2024.pdf": "/static/media/Resume_2024.714e3c47b7e25baee342.pdf",
     "static/media/quiz.jpg": "/static/media/quiz.bd645ee1e8e5af9db3e1.jpg",
     "static/media/password_generator.jpg": "/static/media/password_generator.6f82729d2668aa718761.jpg",
     "static/media/image_editor.jpg": "/static/media/image_editor.8b7b0266e4c0505bf639.jpg",
@@ -13,10 +13,10 @@
     "static/media/p2.png": "/static/media/p2.93c57b742bdfd604c553.png",
     "index.html": "/index.html",
     "main.21865d83.css.map": "/static/css/main.21865d83.css.map",
-    "main.db1d641f.js.map": "/static/js/main.db1d641f.js.map"
+    "main.8851f8a4.js.map": "/static/js/main.8851f8a4.js.map"
   },
   "entrypoints": [
     "static/css/main.21865d83.css",
-    "static/js/main.db1d641f.js"
+    "static/js/main.8851f8a4.js"
   ]
 }
