@@ -46,10 +46,26 @@
         {
             "id" : 7,
             "name" : "The Balloon Gallery",
-            "desc" :"Using React and CSS, I developed a UI for a local party planning and coordinating service. Leveraging React’s features, I created a seamless user experience and with meticulous attention to detail in CSS, I crafted a visually appeal user interface that adapts flawlessly across devices and browsers, enhancing user engagement.",
+            "desc" :"Using React and CSS, I built the frontend for a fictional party planning and coordinating service. Leveraging React’s features, I created a seamless user experience, and with meticulous attention to detail in CSS, I crafted a visually appealing user interface that adapts flawlessly across devices and browsers, enhancing user engagement.",
             "video" : "p2.png",
             "link": "https://autumndevelops.github.io/PartySite/",
             "class" : "site"
+        },
+        {
+            "id" : 8,
+            "name" : "Headphones & Earbuds",
+            "desc" :"I built a sleek frontend for a headphones store using HTML5, SCSS, and JavaScript. I designed a user-friendly interface with interactive cards for easy item management. Plus, I added a dark and light mode option to suit different user preferences and enhance the browsing experience.",
+            "video" : "p3.png",
+            "link": "https://autumndevelops.github.io/Headphone/",
+            "class" : "site"
+        },
+        {
+            "id" : 9,
+            "name" : "Image Editor (Old)",
+            "desc" :"HTML5, SCSS, Vanilla JavaScript",
+            "video" : "image_editor.jpg",
+            "link": "https://autumndevelops.github.io/Image-Editor/",
+            "class" : "JS"
         }
     ]
 }

@@ -23,16 +23,18 @@ const Sidebar = () => {
               <ul  className = "indent-20 text-base my-1 duration-1000">
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">The Balloon Gallery</a></li>
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">The Unique Bean</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Headphones Site</a></li>
               </ul>
             )}
             <h4 className = "flex justify-between items-center text-lg indent-12 my-1 duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer" onClick={toggleVisibility23}>JS App Examples <i className = {`px-2 ${(!isVisible23 ? "" : "rotate-180")} duration-1000`}><IoIosArrowDown /></i></h4>
             {isVisible23 && (
               <ul  className = "indent-20 text-base my-1 duration-1000">
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Pocket Translator</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Quiz App</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Typing Game</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Password Generator</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_r">Voice Recorder</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Pocket Translator</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Quiz App</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Typing Game</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Password Generator</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Voice Recorder</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Image Editor (old)</a></li>
               </ul>
             )}
               </>
