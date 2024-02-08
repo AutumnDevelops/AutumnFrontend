@@ -4,7 +4,7 @@ const Card = () => {
   return (
     <>
   {projects_data.projects.filter(project => project.class === "site").map((project, index) => (
-    <section className="bg-black rounded-sm flex my-5 p-2 flex flex-col justify-content items-center max-w-[350px] md:mx-12 mx-0" key={index}>
+    <section className="bg-black rounded-sm flex my-5 p-2 flex flex-col justify-content items-center w-full md:w-[350px] md:mx-10 mx-0" key={index}>
       <div>
         <h1 className="w-full flex flex-col items-center text-white text-xl font-bold">{project.name}</h1>
           <img src={require(`../assets/videos/${project.video}`)} alt="" className="h-[300px] w-[280px] md:w-[300px] rounded-sm m-2 object-cover" />
