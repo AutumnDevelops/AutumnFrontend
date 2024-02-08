@@ -8,20 +8,6 @@
             "class" : "JS"
         },
         {
-            "id" : 2,
-            "name" : "Quiz App",
-            "desc" :"jQuery, HTML5, SCSS, Rest API",
-            "link": "https://autumndevelops.github.io/Quiz/",
-            "class" : "JS"
-        },
-        {
-            "id" : 3,
-            "name" : "Typing Game",
-            "desc" :"jQuery, HTML5, SCSS, Rest API",
-            "link": "https://autumndevelops.github.io/TypingGame/",
-            "class" : "JS"
-        },
-        {
             "id" : 4,
             "name" : "Pocket Translation",
             "desc" :"Vanila JavaScript, HTML5, SCSS, Rest API",
