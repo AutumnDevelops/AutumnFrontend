@@ -38,7 +38,7 @@
         {
             "id" : 6,
             "name" : "The Unique Bean",
-            "desc" :"Developed a rudimentary UI for a coffee shop. I utilized React to create an efficient and responsive UI, used Redux for stable state management - particularly as a form of local storage. I also Implemented features like product filter and, cart management.",
+            "desc" :"Developed a rudimentary UI for a fictional coffee shop. Utilized React to create an efficient and responsive UI, used Redux for stable state management - particularly as a form of local storage. Implemented features like product filter and, “add-to-cart” functionality.",
             "video" : "p1.png",
             "link": "https://autumndevelops.github.io/Coffeehouse",
             "class" : "site"
@@ -46,7 +46,7 @@
         {
             "id" : 7,
             "name" : "The Balloon Gallery",
-            "desc" :"Using React and CSS, I built the frontend for a fictional party planning and coordinating service. Leveraging React’s features, I created a seamless user experience, and with meticulous attention to detail in CSS, I crafted a visually appealing user interface that adapts flawlessly across devices and browsers, enhancing user engagement.",
+            "desc" :"Using React and CSS, I built the frontend for a fictional party coordinating service. Leveraging React’s features, I created a seamless user experience, with form and routing functionality. Crafted a visually appealing user interface that adapts across devices and browsers.",
             "video" : "p2.png",
             "link": "https://autumndevelops.github.io/PartySite/",
             "class" : "site"
@@ -54,7 +54,7 @@
         {
             "id" : 8,
             "name" : "Headphones & Earbuds",
-            "desc" :"I built a sleek frontend for a headphones store using HTML5, SCSS, and JavaScript. I designed a user-friendly interface with interactive cards for easy item management. Plus, I added a dark and light mode option to suit different user preferences and enhance the browsing experience.",
+            "desc" :"Built a sleek UI for a headphone and earbuds store using HTML5, SCSS, and Vanilla JavaScript. Added cart functionality, alternate light/dark modes, added in HTML elements via vanilla JavaScript.",
             "video" : "p3.png",
             "link": "https://autumndevelops.github.io/Headphone/",
             "class" : "site"
