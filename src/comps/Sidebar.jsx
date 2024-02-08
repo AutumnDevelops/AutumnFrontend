@@ -30,11 +30,9 @@ const Sidebar = () => {
             {isVisible23 && (
               <ul  className = "indent-20 text-base my-1 duration-1000">
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Pocket Translator</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Quiz App</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Typing Game</a></li>
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Password Generator</a></li>
                   <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Voice Recorder</a></li>
-                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Image Editor (old)</a></li>
+                  <li className = "duration-1000 ease-in-out hover:text-[#FF6FB5] cursor-pointer"> <a href="#projects_s">Image Editor</a></li>
               </ul>
             )}
               </>

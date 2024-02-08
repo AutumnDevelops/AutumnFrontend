@@ -47,7 +47,7 @@
         },
         {
             "id" : 9,
-            "name" : "Image Editor (Old)",
+            "name" : "Image Editor",
             "desc" :"HTML5, SCSS, Vanilla JavaScript",
             "video" : "image_editor.jpg",
             "link": "https://autumndevelops.github.io/Image-Editor/",
