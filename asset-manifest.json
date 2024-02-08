@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.21865d83.css",
-    "main.js": "/static/js/main.f940c839.js",
+    "main.css": "/static/css/main.9547c57a.css",
+    "main.js": "/static/js/main.0e9199d9.js",
     "static/media/p3.png": "/static/media/p3.74f73753a64a6a8aa27e.png",
     "static/media/p1.png": "/static/media/p1.e87af79d7cec008c0187.png",
     "static/media/typing_game.jpg": "/static/media/typing_game.97ab4cf60a0d46bc99b8.jpg",
@@ -12,11 +12,11 @@
     "static/media/translator.jpg": "/static/media/translator.dafc31f9dc8e199735a6.jpg",
     "static/media/p2.png": "/static/media/p2.93c57b742bdfd604c553.png",
     "index.html": "/index.html",
-    "main.21865d83.css.map": "/static/css/main.21865d83.css.map",
-    "main.f940c839.js.map": "/static/js/main.f940c839.js.map"
+    "main.9547c57a.css.map": "/static/css/main.9547c57a.css.map",
+    "main.0e9199d9.js.map": "/static/js/main.0e9199d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.21865d83.css",
-    "static/js/main.f940c839.js"
+    "static/css/main.9547c57a.css",
+    "static/js/main.0e9199d9.js"
   ]
 }
