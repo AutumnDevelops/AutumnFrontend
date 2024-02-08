@@ -38,7 +38,7 @@
         {
             "id" : 6,
             "name" : "The Unique Bean",
-            "desc" :"Developed a rudamentary UI for a coffee shop. It utilizes React and Redux. I used React to its full extent create an efficient and responsive UI, used Redux for stable state management - particularly as a form of local storage. I also Implemented features like product filter and, cart management.",
+            "desc" :"Developed a rudimentary UI for a coffee shop. I utilized React to create an efficient and responsive UI, used Redux for stable state management - particularly as a form of local storage. I also Implemented features like product filter and, cart management.",
             "video" : "p1.png",
             "link": "https://autumndevelops.github.io/Coffeehouse",
             "class" : "site"
