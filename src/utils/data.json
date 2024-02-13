@@ -52,6 +52,13 @@
             "video" : "image_editor.jpg",
             "link": "https://autumndevelops.github.io/Image-Editor/",
             "class" : "JS"
+        },
+        {
+            "id" : 10,
+            "name" : "Trivia Quiz",
+            "desc" :"HTML5, SCSS, Vanilla JavaScript",
+            "link": "https://autumndevelops.github.io/Quiz/",
+            "class" : "JS"
         }
     ]
 }
