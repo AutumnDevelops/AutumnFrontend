@@ -21,11 +21,11 @@ const Email_Form = () => {
 
   return (
     <div className = "flex flex-col justify-center items-center w-full">
-    <form className = "md:w-[50vw] w-[75vw] my-4 flex flex-col bg-black relative" ref={form} onSubmit={sendEmail}>
-        <input type = "text" placeholder = "Your name" className = "my-2 bg-transparent text-white p-3 border-[#FFBCCA] border-2 w-full rounded-sm outline-none" required  name="user_name" />
-        <input type = "email" placeholder = "Your Email"  className = "my-2 bg-transparent text-white p-3 border-[#FFBCCA] border-2 w-full  rounded-sm outline-none"  required   name="user_email" />
-        <input type = "text" placeholder = "Your Subject"   className = "my-2 bg-transparent text-white p-3 border-[#FFBCCA] border-2 w-full  rounded-sm outline-none"  required   name="subject" />
-        <textarea type = "your message" placeholder = "Your Message"   className = "my-2 h-[175px] bg-transparent text-white p-3 border-[#FFBCCA] border-2 w-full  rounded-sm outline-none" required   name="message" />
+    <form className = "md:w-[50vw] w-[75vw] my-4 flex flex-col relative" ref={form} onSubmit={sendEmail}>
+        <input type = "text" placeholder = "Your name" className = "my-2 bg-transparent text-[#283630] p-3 border-[#85968A] border-2 w-full rounded-sm outline-none" required  name="user_name" />
+        <input type = "email" placeholder = "Your Email"  className = "my-2 bg-transparent text-[#283630] p-3 border-[#85968A] border-2 w-full  rounded-sm outline-none"  required   name="user_email" />
+        <input type = "text" placeholder = "Your Subject"   className = "my-2 bg-transparent text-[#283630] p-3 border-[#85968A] border-2 w-full  rounded-sm outline-none"  required   name="subject" />
+        <textarea type = "your message" placeholder = "Your Message"   className = "my-2 h-[175px] bg-transparent text-[#283630] p-3 border-[#85968A] border-2 w-full  rounded-sm outline-none" required   name="message" />
         <button className = "w-full bg-[#FFBCCA] text-xl flex justify-center p-2 my-3 rounded-sm" type = "submit">Submit</button>
     </form>
       {message &&
