@@ -59,6 +59,13 @@
             "desc" :"HTML5, SCSS, Vanilla JavaScript, Rest API",
             "link": "https://autumndevelops.github.io/Quiz/",
             "class" : "JS"
+        },
+        {
+            "id": 11,
+            "name": "Omegle Clone UI",
+            "desc":"JSX, ReactJS, SCSS",
+            "link":"https://autumndevelops.github.io/ChatAppUi/",
+            "class":"JS"
         }
     ]
 }
