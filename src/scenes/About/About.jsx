@@ -11,22 +11,22 @@ import "./scroll.scss";
 const About = () => {
 
   return (
-<div className = "my-10" id = "about">
-<main className={`w-[100vw] mx-2 flex flex-col my-6 bg-black overflow-hidden items-center`}>
-    <div className="h-[2px] w-full my-2" style={{ background: "linear-gradient(to left, hotpink, pink)" }} />
+<div id = "about">
+<main className={`w-[100vw] mx-2 flex flex-col bg-[#C2A79195] overflow-hidden items-center `}>
+    <div className="h-[2px] w-full my-2" style={{ background: "#85968A" }} />
 
     <div className= "mx-0 md:w-[60vw] w-[85vw]">
-            <h2 className="m-2 text-2xl font-bold" style={{ background: "-webkit-linear-gradient(hotpink, pink)", WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>About Me</h2>
-            <div className="text-white text-lg w-[90%] m-2">
-              <p className = "font-bold m-2">Who am I?</p>
+            <h2 className="m-2 text-2xl font-bold text-[#2A332A]">About Me</h2>
+            <div className="text-[#2A332A] text-lg w-[90%] m-2">
+              <p className = "font-bold m-2" style={{fontFamily: "'Croissant One', cursive"}}>Who am I?</p>
               <p className = "m-2">My name is Autumn Rayne. Armed with a Bachelor's in Digital Media & Web Technology, I am a Frontend web developer who has accumulated over two years of experience. From freelancing to personal projects, I enjoy building web applications, both small and large.</p>
               <p className = "m-2">My tools of choice are HTML5, Vanilla JavaScript, SCSS. I've also worked with and have experience with ReactJS and TailwindCSS. Currently, I am searching for an entry-level or internship position, which will allow me to expand my skillset and contribute to a team setting. </p>
               <p className = "m-2 mt-5">
-              Shoot me an email at <span style={{ background: "-webkit-linear-gradient(hotpink, pink)", WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>AutumnFrontendDev@outlook.com</span>. I am always available. 
+              Shoot me an email at <span style={{ fontWeight:"bold", fontFamily: "'Croissant One', cursive"}}>AutumnFrontendDev@outlook.com</span>. I am always available. 
               </p>
             </div>
     </div>
-    <div className = "bg-white text-black h-[40px] w-full my-6 flex justify-center items-center text-3xl" style={{ background: "linear-gradient(to left, hotpink, pink)" }}>
+    <div className = "bg-white text-[#C2A791] h-[40px] w-full my-6 flex justify-center items-center text-3xl" style={{ background: "#4B716899" }}>
       <div className = "scrollingIcons flex w-full">
         <i className = "p-5"><FaHtml5 /></i>
         <i className = "p-5"><FaCss3Alt /></i>

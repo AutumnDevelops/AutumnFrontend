@@ -1,11 +1,11 @@
 import React from 'react'
 import Card from "../comps/Card";
+import background from "../assets/background.png"; 
+import { FaHeart } from "react-icons/fa";
 const Projects_recent = () => {
   return (
-    <section className = "flex flex-col justify-content items-center mx-12" id = "projects_r">
-    <div  className = "flex flex-col justify-content items-center mt-5 w-[300px] text-white p-1 bg-black rounded-sm mb-3 text-2xl"  >
-        <h2 style={{ background: "-webkit-linear-gradient(hotpink, pink)", WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>Sites</h2>
-    </div>
+    <section className = "flex flex-col justify-content items-center mx-12 w-[100vw] h-[250vh] md:h-[100vh]" id = "projects_r" style={{ backgroundImage: `url(${background})`, backgroundPosition: "repeat", backgroundSize: "cover"}}>
+        <h2 className = "flex justify-content items-center mt-5 text-white p-1 mb-3 text-4xl" style={{fontFamily: "'Croissant One', cursive", color: "#b88b6d", textShadow: "#b88b6d 1px 0 1px", WebkitTextStroke: "0.25px #e0c1af"}}><i className = "px-2"><FaHeart /></i> ~ Demo Sites ~ <i className = "px-2"><FaHeart /></i></h2>
     <div className ="flex flex-wrap ">
       <Card />
     </div>
