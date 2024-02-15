@@ -9,7 +9,6 @@ const Email = () => {
         <div>
           <Email_Form />
         </div>
-        <div className="h-[2x] w-full my-1" style={{ background: "linear-gradient(to left, hotpink, pink)" }} />
     </div>
   )
 }

@@ -26,13 +26,12 @@ const Email_Form = () => {
         <input type = "email" placeholder = "Your Email"  className = "my-2 bg-transparent text-[#283630] p-3 border-[#85968A] border-2 w-full  rounded-sm outline-none"  required   name="user_email" />
         <input type = "text" placeholder = "Your Subject"   className = "my-2 bg-transparent text-[#283630] p-3 border-[#85968A] border-2 w-full  rounded-sm outline-none"  required   name="subject" />
         <textarea type = "your message" placeholder = "Your Message"   className = "my-2 h-[175px] bg-transparent text-[#283630] p-3 border-[#85968A] border-2 w-full  rounded-sm outline-none" required   name="message" />
-        <button className = "w-full bg-[#FFBCCA] text-xl flex justify-center p-2 my-3 rounded-sm" type = "submit">Submit</button>
+        <button className = "w-full text-lg flex justify-center p-2 my-3 rounded-sm text-[#C2A791] bg-[#85968A] hover:bg-[#283630] duration-1000" type = "submit">Submit</button>
     </form>
-      {message &&
-        <div className="bg-white text-black h-[40px] w-[100vw] font-bold mt-6 flex justify-center items-center text-3xl" style={{ background: "linear-gradient(to left, hotpink, pink)" }}>
-          Message Sent
+        <div className="bg-[#85968A] text-[#DBCCBF] h-[40px] w-[100vw] font-bold mt-6 flex justify-center items-center text-3xl ">
+        {message && <h2 className = "scrollingIcons" style={{fontFamily: "'Croissant One'"}} >Message Sent</h2>}
         </div>
-      }
+  
       
     </div>
   )
