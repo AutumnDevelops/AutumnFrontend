@@ -3,21 +3,21 @@
         {
             "id" : 1,
             "name" : "Password Generator",
-            "desc" :"Vanilla JavaScript, HTML5, SCSS",
+            "desc" :"JavaScript, HTML5, SCSS",
             "link": "https://autumndevelops.github.io/PasswordGen/",
             "class" : "JS"
         },
         {
             "id" : 2,
             "name" : "Pocket Translation",
-            "desc" :"Vanilla JavaScript, HTML5, SCSS, Rest API",
+            "desc" :"JavaScript, HTML5, SCSS, Rest API",
             "link": "https://autumndevelops.github.io/PocketTranslator/",
             "class" : "JS"
         },
         {
             "id" : 3,
             "name" : "Voice Recorder",
-            "desc" :"Vanilla JavaScript, HTML5, CSS",
+            "desc" :"JavaScript, HTML5, CSS",
             "link": "https://autumndevelops.github.io/Recorder/",
             "class" : "JS"
         },
@@ -48,7 +48,7 @@
         {
             "id" : 7,
             "name" : "Image Editor",
-            "desc" :"HTML5, SCSS, Vanilla JavaScript",
+            "desc" :"HTML5, SCSS, JavaScript",
             "video" : "image_editor.jpg",
             "link": "https://autumndevelops.github.io/Image-Editor/",
             "class" : "JS"
