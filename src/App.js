@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App flex flex-col h-[100vh] w-[100vw]" style={{ backgroundImage: `url(${background})`, backgroundPosition: "repeat", backgroundSize: "cover"}}>
       <Nav />
-      <main className="flex flex-col justify-center items-center">
+      <main className="flex flex-col justify-center">
            <Header />
            <About />
            <Projects_recent />
