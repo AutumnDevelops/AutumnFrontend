@@ -1,6 +1,14 @@
 {
     "projects" : [
         {
+            "id" : 0,
+            "name" : "Ezra Alexander's Portfolio",
+            "desc":"Using React and SCSS, I developed a portfolio for a very close peer of mine. It essential serves as Ezra Alexander's personal, digital art gallery.",
+            "link": "https://exraalexander.art",
+            "video" : "p0.png",
+            "class" : "comm"
+        },
+        {
             "id" : 1,
             "name" : "Password Generator",
             "desc" :"JavaScript, HTML5, SCSS",

@@ -8,7 +8,7 @@ const Nav = () => {
 
   return (
 <section className = "fixed w-full z-50">
-    <nav className = "relative w-full text-[#283630] bg-[#DBCCBF99] z-50 h-[40px] px-4 py-2">
+    <nav className = "relative w-full text-[#283630] bg-[#DBCCBF] h-[50px] px-4 py-2">
     <i className = "text-3xl duration-1000 ease-in-out cursor-pointer hover:text-white"  onClick={toggleSidebar}>
     {sidebarOpen ? (<IoMdClose /> ) : (<FiAlignJustify />)
     }</i>
