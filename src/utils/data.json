@@ -3,7 +3,7 @@
         {
             "id" : 0,
             "name" : "Ezra Alexander's Portfolio",
-            "desc":"Using React and SCSS, I developed a portfolio for a very close peer of mine. It essential serves as Ezra Alexander's personal, digital art gallery.",
+            "desc":"I utilized React and SCSS to create an art portfolio for my close friend and former classmate, Ezra. I employed SCSS to craft a responsive and minimalist design, while React handled basic functionality such as mapping and filtering items.",
             "link": "https://ezraalexander.art",
             "video" : "p0.png",
             "class" : "comm"
@@ -32,7 +32,7 @@
         {
             "id" : 4,
             "name" : "The Unique Bean",
-            "desc" :"Developed a rudimentary UI for a fictional coffee shop. Utilized React to create an efficient and responsive UI, used Redux for stable state management - particularly as a form of local storage. Implemented features like product filter and, “add-to-cart” functionality.",
+            "desc" :"I developed a user interface (UI) for a fictional coffee shop, utilizing React for JavaScript functionality (mapping, filtering items, importing JSON elements, etc.), Redux toolkit for cart management. Meanwhile, I used SCSS to create a responsive and visually appealing interface.",
             "video" : "p1.png",
             "link": "https://autumndevelops.github.io/Coffeehouse",
             "class" : "site"
@@ -40,7 +40,7 @@
         {
             "id" : 5,
             "name" : "The Balloon Gallery",
-            "desc" :"Using React and CSS, I built the frontend for a fictional party coordinating service. Leveraging React’s features, I created a seamless user experience, with form and routing functionality. Crafted a visually appealing user interface that adapts across devices and browsers.",
+            "desc" :"I built the frontend for a fictional party coordinating service using React and CSS. I utilized React for functionality and reusable components, while CSS was employed to ensure that the app is responsive and visually appealing.",
             "video" : "p2.png",
             "link": "https://autumndevelops.github.io/PartySite/",
             "class" : "site"
@@ -48,7 +48,7 @@
         {
             "id" : 6,
             "name" : "Headphones & Earbuds",
-            "desc" :"Built a sleek UI for a headphone and earbuds store using HTML5, SCSS, and Vanilla JavaScript. Added cart functionality, alternate light/dark modes, added in HTML elements via vanilla JavaScript.",
+            "desc" :"I developed a user interface (UI) for a fictional headphones and earbuds shop, employing vanilla JavaScript for functionality such as filtering, mapping items, and cart management. Additionally, I utilized SCSS for an attractive and responsive design.",
             "video" : "p3.png",
             "link": "https://autumndevelops.github.io/Headphone/",
             "class" : "site"
