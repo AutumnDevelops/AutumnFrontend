@@ -32,7 +32,7 @@
         {
             "id" : 4,
             "name" : "The Unique Bean",
-            "desc" :"I developed a user interface (UI) for a fictional coffee shop, utilizing React for JavaScript functionality (mapping, filtering items, importing JSON elements, etc.), Redux toolkit for cart management. Meanwhile, I used SCSS to create a responsive and visually appealing interface.",
+            "desc" :"I created the user interface (UI) for a fictional coffee shop, leveraging React for JavaScript functionality such as mapping, filtering items, and importing JSON elements. To manage the shopping cart, I employed Redux Toolkit. Additionally, I utilized SCSS to craft a responsive and visually appealing interface.",
             "video" : "p1.png",
             "link": "https://autumndevelops.github.io/Coffeehouse",
             "class" : "site"
