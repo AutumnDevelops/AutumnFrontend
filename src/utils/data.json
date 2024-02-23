@@ -18,8 +18,8 @@
         {
             "id" : 2,
             "name" : "Pocket Translation",
-            "desc" :"JavaScript, HTML5, SCSS, Rest API",
-            "link": "https://autumndevelops.github.io/PocketTranslator/",
+            "desc" :"React, SCSS, JSX, RestAPI",
+            "link": "https://autumndevelops.github.io/translatorapp/",
             "class" : "JS"
         },
         {
