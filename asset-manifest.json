@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bac6a81.css",
-    "main.js": "/static/js/main.0ab5344f.js",
+    "main.css": "/static/css/main.3fd948e0.css",
+    "main.js": "/static/js/main.1d59a17c.js",
     "static/media/background.png": "/static/media/background.b4198c6ded88fba333d5.png",
     "static/media/p3.png": "/static/media/p3.74f73753a64a6a8aa27e.png",
     "static/media/p1.png": "/static/media/p1.e87af79d7cec008c0187.png",
     "static/media/typing_game.jpg": "/static/media/typing_game.97ab4cf60a0d46bc99b8.jpg",
     "static/media/recorder.jpg": "/static/media/recorder.c68eb6fceff16124e174.jpg",
+    "static/media/General_Resume2024.pdf": "/static/media/General_Resume2024.412272daf20707d4098b.pdf",
     "static/media/quiz.jpg": "/static/media/quiz.bd645ee1e8e5af9db3e1.jpg",
     "static/media/password_generator.jpg": "/static/media/password_generator.6f82729d2668aa718761.jpg",
     "static/media/image_editor.jpg": "/static/media/image_editor.8b7b0266e4c0505bf639.jpg",
@@ -14,11 +15,11 @@
     "static/media/p2.png": "/static/media/p2.93c57b742bdfd604c553.png",
     "static/media/p0.png": "/static/media/p0.63adb7985790c2a04490.png",
     "index.html": "/index.html",
-    "main.6bac6a81.css.map": "/static/css/main.6bac6a81.css.map",
-    "main.0ab5344f.js.map": "/static/js/main.0ab5344f.js.map"
+    "main.3fd948e0.css.map": "/static/css/main.3fd948e0.css.map",
+    "main.1d59a17c.js.map": "/static/js/main.1d59a17c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bac6a81.css",
-    "static/js/main.0ab5344f.js"
+    "static/css/main.3fd948e0.css",
+    "static/js/main.1d59a17c.js"
   ]
 }
