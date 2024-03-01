@@ -17,10 +17,17 @@
         },
         {
             "id" : 2,
-            "name" : "Pocket Translation",
+            "name" : "Pocket Translator",
             "desc" :"React, SCSS, JSX, RestAPI",
             "link": "https://autumndevelops.github.io/translatorapp/",
             "class" : "JS"
+        },
+        {
+            "id": 10,
+            "name": "AI Image Generator",
+            "desc":"JSX, ReactJS, SCSS, RestAPI",
+            "link":"https://autumndevelops.github.io/react_ai_img_generator/",
+            "class":"JS"
         },
         {
             "id" : 3,
